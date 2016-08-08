@@ -1,0 +1,28 @@
+
+div.twitter-share{
+    width: 40px;
+    height: 40px;
+    margin: 3px 5px auto auto;
+}
+
+div.twitter-share {
+    background: transparent url('images/twitter_share.png') no-repeat center;
+    background-size: contain;
+}
+
+div.twitter_button_connect {
+    background: transparent url('images/twitter_connect.png') no-repeat center;
+    background-size: contain;
+}
+
+div.pinterest_button_connect {
+    background: transparent url('images/pinterest_connect.png') no-repeat center;
+    background-size: contain;
+}
+
+div.twitter_button_connect {
+    width: 35px;
+    height: 35px;
+    margin: 5px 5px 40px 0px;
+    float: left;
+}

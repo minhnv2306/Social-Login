@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<config	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <internship>
+            <twitter>
+                <enalbed>1</enalbed>
+                <client_id>l1qj3RdtssOCVFJrtXCElTOdb</client_id>
+                <client_secret>4BLQkeSKGimeqYX5kPWhKvKFbWiOA3kKSpypRtKMY8CDnD33cK</client_secret>
+            </twitter>
+        </internship>
+    </default>
+</config>
