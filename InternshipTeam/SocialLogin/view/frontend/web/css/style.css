@@ -1,0 +1,78 @@
+a.sociallogin_popup {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+ul.hideshare-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+ul.hideshare-list li {
+    float: left;
+}
+
+div.facebook-share, div.google-share, div.twitter-share, div.pinterest-share{
+    width: 40px;
+    height: 40px;
+    margin: 3px 5px auto auto;
+}
+
+div.facebook-share {
+    background: transparent url('images/facebook_share.png') no-repeat center;
+    background-size: contain;
+}
+
+div.google-share {
+    background: transparent url('images/google_share.png') no-repeat center;
+    background-size: contain;
+}
+
+div.twitter-share {
+    background: transparent url('images/twitter_share.png') no-repeat center;
+    background-size: contain;
+}
+
+div.pinterest-share{
+    background: transparent url('images/pinterest_share.png') no-repeat center;
+    background-size: contain;
+    cursor: pointer;
+}
+
+div.instagram_button_connect {
+    background: transparent url('images/instagram_connect.png') no-repeat center;
+    background-size: contain;
+}
+
+div.linkedin_button_connect {
+    background: transparent url('images/linkedin_connect.png') no-repeat center;
+    background-size: contain;
+}
+
+div.facebook_button_connect {
+    background: transparent url('images/facebook_connect.png') no-repeat center;
+    background-size: contain;
+}
+
+div.google_button_connect {
+    background: transparent url('images/google_connect.png') no-repeat center;
+    background-size: contain;
+}
+
+div.twitter_button_connect {
+    background: transparent url('images/twitter_connect.png') no-repeat center;
+    background-size: contain;
+}
+
+div.pinterest_button_connect {
+    background: transparent url('images/pinterest_connect.png') no-repeat center;
+    background-size: contain;
+}
+
+div.pinterest_button_connect, div.linkedin_button_connect, div.facebook_button_connect, div.google_button_connect, div.instagram_button_connect, div.twitter_button_connect {
+    width: 35px;
+    height: 35px;
+    margin: 5px 5px 40px 0px;
+    float: left;
+}
